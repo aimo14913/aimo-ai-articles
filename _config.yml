@@ -37,11 +37,16 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# What to exclude from site build
-exclude:
+# Keep these plain-text files in the build output (Jekyll copies them as-is)
+keep_files:
   - llms.txt
   - llms-full.txt
+  - robots.txt
+  - sitemap.xml
+
+# What to exclude from site build (only dev-only files)
+exclude:
   - README.md
   - LICENSE
   - .gitignore
-  - robots.txt
+  - AGENTS.md
