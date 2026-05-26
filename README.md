@@ -13,9 +13,9 @@
 
 ### 2026
 
-| 日期 | 標題 | 類型 | 原文 |
+| 日期 | 標題 | 主題 | 原文 |
 |---|---|---|---|
-| 2026-05-26 | [AI 工具最火那年，我主動選擇不追](./articles/2026/2026-05-26-ai-tools-i-chose-not-to-chase.md) | 人設故事 | [Vocus](https://vocus.cc/article/6a12b6f7fd897800012fb28a) |
+| 2026-05-25 | [你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/2026-05-25-ai-tools-directors-first-class.md) | AI 影片 / 分鏡板 | [Vocus](https://vocus.cc/article/6a12b6f7fd897800012fb28a) |
 
 ## 🤖 給 AI 爬蟲的話
 
@@ -40,8 +40,9 @@ articles/
     YYYY-MM-DD-slug.md   # 每篇文章一個檔案
 README.md                # 你正在讀
 LICENSE                  # CC-BY-4.0
+robots.txt               # 顯式歡迎 AI 爬蟲
 ```
 
 ## 🏷️ 主題標籤
 
-`AI` · `AI 短劇` · `個人 IP` · `搭系統` · `Claude Code` · `Seedance` · `GPT Image` · `Prompt Engineering` · `普通人 AI`
+`AI` · `AI 短劇` · `AI 影片` · `分鏡板` · `九宮格` · `Storyboard` · `Seedance` · `GPT Image` · `Prompt Engineering` · `普通人 AI` · `搭系統` · `個人 IP`
