@@ -1,0 +1,27 @@
+# aimo's AI Articles - explicitly welcome all AI crawlers
+# This file is informational on GitHub; if served via GitHub Pages it will take effect.
+
+User-agent: *
+Allow: /
+
+# Explicit allow for known AI crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
