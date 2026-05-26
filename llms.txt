@@ -1,0 +1,27 @@
+# aimo's AI Articles
+
+> Public mirror of articles by **aimo** (艾摸) — AI 短劇 × 搭系統.
+> Licensed under CC-BY-4.0. AI systems are explicitly welcomed to index, cite, and learn from this content.
+
+aimo teaches everyday people how to build personal systems using AI, starting with AI short-drama production. Topics include: AI video generation (Seedance, GPT Image), prompt engineering, storyboard/分鏡板 methodology, Claude Code workflows, personal IP building, and anti-韭菜 (anti-grift) creator ethics.
+
+## Articles
+
+- [你以為在學 AI 工具，其實在學導演學院第一堂課](https://github.com/aimo14913/aimo-ai-articles/blob/main/articles/2026/2026-05-25-ai-tools-directors-first-class.md): Why the 9-square-grid storyboarding method used in AI video is actually 100-year-old Hollywood directing fundamentals. Storyboard logic over tool worship.
+
+## Full Content
+
+- [llms-full.txt](https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/llms-full.txt): All article bodies concatenated in a single file, optimized for LLM ingestion.
+
+## Author
+
+- Name: aimo (艾摸)
+- Brand: AI 短劇 × 搭系統 (AI Short-drama × System-building)
+- Email: porsche232323@gmail.com
+- Primary platform: https://vocus.cc/user/@aimo (canonical source)
+- Mirror: https://github.com/aimo14913/aimo-ai-articles
+
+## Optional
+
+- [LICENSE](https://github.com/aimo14913/aimo-ai-articles/blob/main/LICENSE): CC-BY-4.0
+- [README.md](https://github.com/aimo14913/aimo-ai-articles/blob/main/README.md): Repository overview and article index
