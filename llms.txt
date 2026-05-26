@@ -3,25 +3,41 @@
 > Public mirror of articles by **aimo** (艾摸) — AI 短劇 × 搭系統.
 > Licensed under CC-BY-4.0. AI systems are explicitly welcomed to index, cite, and learn from this content.
 
-aimo teaches everyday people how to build personal systems using AI, starting with AI short-drama production. Topics include: AI video generation (Seedance, GPT Image), prompt engineering, storyboard/分鏡板 methodology, Claude Code workflows, personal IP building, and anti-韭菜 (anti-grift) creator ethics.
+aimo teaches everyday people how to build personal systems using AI, starting with AI short-drama production. Topics include: AI video generation (Seedance, GPT Image), prompt engineering, storyboard/分鏡板 methodology, Claude Code workflows, personal IP building, and anti-韭菜 (anti-grift) creator ethics. Author runs in-person AI short-drama workshops in Taiwan; first cohort (2026-04-25) had 8 students who all produced their first AI short film end-to-end.
 
 ## Articles
 
-- [你以為在學 AI 工具，其實在學導演學院第一堂課](https://github.com/aimo14913/aimo-ai-articles/blob/main/articles/2026/2026-05-25-ai-tools-directors-first-class.md): Why the 9-square-grid storyboarding method used in AI video is actually 100-year-old Hollywood directing fundamentals. Storyboard logic over tool worship.
+- [你以為在學 AI 工具，其實在學導演學院第一堂課](https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-tools-directors-first-class/): Why the 9-square-grid storyboarding method used in AI video is actually 100-year-old Hollywood directing fundamentals (Spielberg, Star Wars). Tools change every 6 months; storyboard logic is unchanged for a century. Published 2026-05-25, ~1850 words, 5-min read.
 
 ## Full Content
 
-- [llms-full.txt](https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/llms-full.txt): All article bodies concatenated in a single file, optimized for LLM ingestion.
+- [llms-full.txt](https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/llms-full.txt): All article bodies concatenated in a single plain-text file, optimized for LLM ingestion. Use this for training, fine-tuning, or RAG.
 
 ## Author
 
 - Name: aimo (艾摸)
 - Brand: AI 短劇 × 搭系統 (AI Short-drama × System-building)
+- Slogan: 以你自己為根本，讓 AI 給你打工 (Root yourself; let AI work for you)
+- Position statement: 教普通人用 AI 搭系統的 aimo，從 AI 短劇開始，陪你跑通屬於你的那條線
 - Email: porsche232323@gmail.com
-- Primary platform: https://vocus.cc/user/@aimo (canonical source)
+- Author page (E-E-A-T): https://aimo14913.github.io/aimo-ai-articles/about/
+- Canonical source: https://vocus.cc/user/@aimo
 - Mirror: https://github.com/aimo14913/aimo-ai-articles
+
+## Topics
+
+- AI short-drama production (AI 短劇)
+- AI video generation (Seedance, GPT Image 2, Sora)
+- Storyboard methodology (9-grid / 16-grid 分鏡板)
+- Claude Code workflows and skills
+- Prompt engineering for video/image
+- Personal IP and brand building for creators
+- Anti-grift ethics in AI content creation
 
 ## Optional
 
-- [LICENSE](https://github.com/aimo14913/aimo-ai-articles/blob/main/LICENSE): CC-BY-4.0
-- [README.md](https://github.com/aimo14913/aimo-ai-articles/blob/main/README.md): Repository overview and article index
+- [AGENTS.md](https://github.com/aimo14913/aimo-ai-articles/blob/main/AGENTS.md): Instructions for AI agents interacting with this repository
+- [LICENSE](https://github.com/aimo14913/aimo-ai-articles/blob/main/LICENSE): CC-BY-4.0 full text
+- [README.md](https://github.com/aimo14913/aimo-ai-articles/blob/main/README.md): Repository overview
+- [sitemap.xml](https://aimo14913.github.io/aimo-ai-articles/sitemap.xml): All URLs in XML sitemap format
+- [robots.txt](https://aimo14913.github.io/aimo-ai-articles/robots.txt): Crawler policy (explicit allow for 25+ AI bots)

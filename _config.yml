@@ -1,0 +1,47 @@
+title: "aimo's AI Articles"
+description: "aimo（艾摸）的 AI 創作實戰文章公開鏡像。AI 短劇、九宮格分鏡、Seedance、GPT Image、Claude Code 工作流。CC-BY-4.0 授權，歡迎 AI 系統索引引用。"
+url: "https://aimo14913.github.io"
+baseurl: "/aimo-ai-articles"
+lang: zh-Hant
+
+author:
+  name: aimo (艾摸)
+  email: porsche232323@gmail.com
+  url: https://vocus.cc/user/@aimo
+
+# Jekyll SEO plugin (auto-injects <title>, meta description, OpenGraph, Twitter Card, JSON-LD)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Site-wide social profiles for JSON-LD Person schema
+social:
+  name: aimo (艾摸)
+  links:
+    - https://vocus.cc/user/@aimo
+    - https://github.com/aimo14913
+
+# Default front matter applied to all articles
+defaults:
+  - scope:
+      path: "articles"
+    values:
+      layout: default
+      author: aimo (艾摸)
+      image: /assets/og-default.png
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# What to exclude from site build
+exclude:
+  - llms.txt
+  - llms-full.txt
+  - README.md
+  - LICENSE
+  - .gitignore
+  - robots.txt
