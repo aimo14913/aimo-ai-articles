@@ -38,7 +38,12 @@ keywords:
 
 ### 2026
 
-- **[你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/2026-05-25-ai-tools-directors-first-class.html)**
+- **[2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人](./articles/2026/ai-bonus-belongs-to-system-builders/)**
+  - 📅 發布日：2026-05-27
+  - 💡 主題：搭系統的三個台階——Skills → 工作流 → AI 編程
+  - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a151711fd89780001cc6c78)
+
+- **[你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/ai-tools-directors-first-class/)**
   - 📅 發布日：2026-05-25
   - 💡 主題：AI 影片九宮格分鏡 = 好萊塢百年導演分鏡板邏輯
   - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a12b6f7fd897800012fb28a)

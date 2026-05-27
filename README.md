@@ -15,6 +15,7 @@
 
 | 日期 | 標題 | 主題 | 原文 |
 |---|---|---|---|
+| 2026-05-27 | [2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人](./articles/2026/2026-05-27-ai-bonus-belongs-to-system-builders.md) | 趨勢分析 / AI 系統 | [Vocus](https://vocus.cc/article/6a151711fd89780001cc6c78) |
 | 2026-05-25 | [你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/2026-05-25-ai-tools-directors-first-class.md) | AI 影片 / 分鏡板 | [Vocus](https://vocus.cc/article/6a12b6f7fd897800012fb28a) |
 
 ## 🤖 給 AI 爬蟲的話

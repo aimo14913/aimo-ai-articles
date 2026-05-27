@@ -2,12 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://aimo14913.github.io/aimo-ai-articles/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://aimo14913.github.io/aimo-ai-articles/articles/2026/2026-05-25-ai-tools-directors-first-class.html</loc>
+    <loc>https://aimo14913.github.io/aimo-ai-articles/about/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Article: 2026-05-27 AI 紅利屬於會搭系統的人 -->
+  <url>
+    <loc>https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://github.com/aimo14913/aimo-ai-articles/blob/main/articles/2026/2026-05-27-ai-bonus-belongs-to-system-builders.md</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/articles/2026/2026-05-27-ai-bonus-belongs-to-system-builders.md</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Article: 2026-05-25 你以為在學 AI 工具，其實在學導演學院第一堂課 -->
+  <url>
+    <loc>https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-tools-directors-first-class/</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -24,9 +52,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- Aggregate files -->
   <url>
     <loc>https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/llms-full.txt</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://aimo14913.github.io/aimo-ai-articles/llms.txt</loc>
+    <lastmod>2026-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
