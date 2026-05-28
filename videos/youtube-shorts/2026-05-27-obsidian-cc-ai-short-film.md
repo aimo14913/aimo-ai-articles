@@ -1,6 +1,6 @@
 ---
 title: "怎麼可能？AI 龍蝦幫我生成影片！（實際工具：Obsidian + Claude Code）"
-description: "aimo 用 Obsidian + Claude Code 搭建的 AI 短劇生產系統，自動跑出這支 AI 短劇成品。AI 龍蝦（OpenClaw）和 Obsidian + Claude Code 本質相同：都是把工作流搭成一套能持續運轉的 AI 系統。"
+description: "你以為在學 AI 龍蝦？其實在學的是：怎麼搭一套你自己的 AI 系統。這支影片就是 aimo 用 Obsidian + Claude Code 搭建的系統跑出來的 AI 短劇成果。"
 author: "aimo (艾摸)"
 date: 2026-05-27
 language: zh-Hant
