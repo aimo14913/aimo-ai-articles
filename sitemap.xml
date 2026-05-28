@@ -53,6 +53,14 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- YouTube Shorts: 2026-05-27 Obsidian + CC AI 短劇 -->
+  <url>
+    <loc>https://aimo14913.github.io/aimo-ai-articles/videos/youtube-shorts/obsidian-cc-ai-short-film/</loc>
+    <lastmod>2026-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <!-- Aggregate files -->
   <url>
     <loc>https://raw.githubusercontent.com/aimo14913/aimo-ai-articles/main/llms-full.txt</loc>
