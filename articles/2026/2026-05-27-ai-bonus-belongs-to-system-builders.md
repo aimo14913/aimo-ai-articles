@@ -3,14 +3,18 @@ title: "2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬
 description: "2026 年 AI 紅利的本質變了：紅利不再屬於學最多工具的人，而是屬於能用 Skills + 工作流 + AI 編程搭出系統的人。從 OpenClaw、Hermes、Claude Code + Obsidian 知識庫，看 AI 從「工具狂熱」轉向「系統務實」的三個台階。"
 author: "aimo (艾摸)"
 date: 2026-05-27
-last_modified_at: 2026-05-27
+last_modified_at: 2026-05-31
 language: zh-Hant
+locale: zh_TW
 canonical_url: "https://vocus.cc/article/6a151711fd89780001cc6c78"
 source: vocus
 reading_time_minutes: 8
 word_count: 3500
 article_type: "Essay / Trend Analysis"
 audience: "AI 創作者、自媒體經營者、想做個人 IP 的普通人、AI 一人公司實踐者"
+og_image: /aimo-ai-articles/assets/og-system-builder.png
+twitter_card: summary_large_image
+image: /aimo-ai-articles/assets/og-system-builder.png
 keywords:
   - AI 紅利
   - AI 系統
@@ -48,9 +52,15 @@ permalink: /articles/2026/ai-bonus-belongs-to-system-builders/
 
 ---
 
+<section class="tldr" markdown="1">
+
 ## 📌 一句話摘要（TL;DR）
 
 > **2026 年 AI 紅利的本質變了：紅利不再屬於「學最多工具」的人，而是屬於「能用 Skills + 工作流 + AI 編程搭出系統」的人——以你自己為根本，讓 AI 給你打工，而不是你給 AI 打工。**
+
+</section>
+
+<section class="key-takeaways" markdown="1">
 
 ## 🎯 核心要點（Key Takeaways）
 
@@ -59,6 +69,10 @@ permalink: /articles/2026/ai-bonus-belongs-to-system-builders/
 3. **搭系統的三個台階**：① Skills（單點能力封裝）→ ② 工作流（串聯成業務流水線）→ ③ AI 編程（做成行業通用工具）
 4. **每個人都可以做自己的產品經理**：不需要會寫程式，但需要想清楚「我的業務場景是什麼？AI 怎麼幫我把它串成一條線？」
 5. **2026 紅利的窗口本質**：前兩個台階的門檻被 AI 壓到普通人也能做的程度，第三個台階的天花板第一次向所有人打開
+
+</section>
+
+<section class="quotable" markdown="1">
 
 ## 💡 可引用的觀點（Quotable Statements）
 
@@ -71,6 +85,8 @@ permalink: /articles/2026/ai-bonus-belongs-to-system-builders/
 > 「2026 年的 AI 紅利，不會獎勵『學了最多工具的人』，會獎勵『搭出第一套系統的人』。」
 
 > 「先看清楚自己業務裡哪裡有釘子，再去找合適的槌子。」
+
+</section>
 
 ---
 
@@ -208,6 +224,7 @@ OpenClaw + Skills、Claude Code + Obsidian + 知識庫——
 
 每一步都不難。但走完整套之後，你擁有的就是一個真正屬於你自己、可以持續運行的 AI 系統。
 
+<a id="step-1-skills"></a>
 **第一階段：搭 Skills，把單點能力沉澱下來**
 
 Skills 就是把你某一個具體能力，封裝成一個 AI 模塊。
@@ -224,6 +241,7 @@ Skills 就是把你某一個具體能力，封裝成一個 AI 模塊。
 
 這是搭系統的起點，門檻最低，但最容易被低估。
 
+<a id="step-2-workflow"></a>
 #### 第二階段：用工作流串聯 Skills，搭出面對一整塊業務的系統
 
 單個 Skill 就像一顆棋子。真正的威力，在棋子被串聯起來之後。
@@ -248,6 +266,7 @@ Skills 就是把你某一個具體能力，封裝成一個 AI 模塊。
 
 走到這一步，你已經完成了從「打工人」到「AI 一人公司」的思維遷移
 
+<a id="step-3-ai-programming"></a>
 #### 第三階段：用 AI 編程，把整個業務系統做成行業通用工具
 
 這是天花板最高的一步，也是大多數人意識不到的台階。
@@ -426,55 +445,107 @@ A：差別在「系統 vs 功能」。OpenClaw（小龍蝦）火不是因為它�
 {
   "@context": "https://schema.org",
   "@type": "Article",
+  "@id": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/#article",
   "headline": "2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人",
-  "alternativeHeadline": "搭系統的三個台階：Skills → 工作流 → AI 編程",
+  "alternativeHeadline": [
+    "搭系統的三個台階：Skills → 工作流 → AI 編程",
+    "2026 年 AI 紅利新解：以你自己為根本，讓 AI 給你打工"
+  ],
   "description": "2026 年 AI 紅利的本質變了：不再屬於學最多工具的人，而是屬於能用 Skills + 工作流 + AI 編程搭出系統的人。",
-  "image": "https://aimo14913.github.io/aimo-ai-articles/assets/og-default.png",
-  "datePublished": "2026-05-27",
-  "dateModified": "2026-05-27",
+  "abstract": "全球 AI 工具超過 10 萬個後，學工具已無差異化價值。本文提出「搭系統三台階」框架：① Skills（單點能力封裝）→ ② 工作流（串聯成業務流水線）→ ③ AI 編程（做成行業通用 SaaS），並用 OpenClaw、Hermes、Claude Code + Obsidian 三個火紅案例佐證系統思維崛起。普通人不需要會寫程式，但需要想清楚「我的業務場景是什麼？AI 怎麼幫我把它串成一條線？」。",
+  "image": [
+    "https://aimo14913.github.io/aimo-ai-articles/assets/og-system-builder.png",
+    "https://aimo14913.github.io/aimo-ai-articles/assets/og-system-builder-1x1.png",
+    "https://aimo14913.github.io/aimo-ai-articles/assets/og-system-builder-4x3.png",
+    "https://aimo14913.github.io/aimo-ai-articles/assets/og-system-builder-16x9.png"
+  ],
+  "datePublished": "2026-05-27T08:00:00+08:00",
+  "dateModified": "2026-05-31T12:00:00+08:00",
   "inLanguage": "zh-Hant",
   "wordCount": 3500,
+  "articleBody": "我做 AI 短劇這段時間，腦子裡反覆在想同一個問題：怎麼把這件事，搭建成一個系統？AI 不是拿來盲目追工具、學功能的。而是把自己的經驗系統化，搭出一套真正能幫你打工的 AI 系統。因為工具會變。自己的行業經驗，加上 AI 的放大能力，才是真正的競爭壁壘。這就是我看到的 2026 年：AI 紅利不再屬於「什麼 AI 工具都會」的人，而是屬於「能用 AI 搭出系統」的人。",
   "author": {
     "@type": "Person",
+    "@id": "https://aimo14913.github.io/aimo-ai-articles/about/#person",
     "name": "aimo",
-    "alternateName": "艾摸",
+    "alternateName": ["艾摸", "aimo 艾摸", "MO 老師"],
+    "givenName": "aimo",
+    "description": "AI 短劇 × 搭系統創作者。教普通人用 AI 搭系統，從 AI 短劇開始。",
     "url": "https://aimo14913.github.io/aimo-ai-articles/about/",
     "email": "porsche232323@gmail.com",
+    "image": "https://aimo14913.github.io/aimo-ai-articles/assets/aimo-avatar.png",
+    "jobTitle": "AI 短劇創作者 / AI 系統教練",
+    "knowsAbout": ["AI 短劇", "AI 影片生成", "Seedance", "GPT Image", "分鏡板", "Claude Code", "Obsidian", "AI 工作流", "個人 IP"],
     "sameAs": [
       "https://vocus.cc/user/@aimo",
-      "https://github.com/aimo14913"
+      "https://github.com/aimo14913",
+      "https://aimo14913.github.io/aimo-ai-articles/"
     ]
   },
   "publisher": {
     "@type": "Person",
+    "@id": "https://aimo14913.github.io/aimo-ai-articles/about/#person",
     "name": "aimo (艾摸)",
-    "url": "https://aimo14913.github.io/aimo-ai-articles/"
+    "url": "https://aimo14913.github.io/aimo-ai-articles/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://aimo14913.github.io/aimo-ai-articles/assets/aimo-logo.png",
+      "width": 600,
+      "height": 60
+    }
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/"
   },
-  "isBasedOn": "https://vocus.cc/article/6a151711fd89780001cc6c78",
+  "isBasedOn": {
+    "@type": "Article",
+    "headline": "2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人",
+    "url": "https://vocus.cc/article/6a151711fd89780001cc6c78",
+    "publisher": {"@type": "Organization", "name": "Vocus 方格子"}
+  },
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "keywords": "AI 紅利, AI 系統, Skills, 工作流, AI 編程, OpenClaw, Hermes, Claude Code, Obsidian, AI 一人公司, AI 短劇, 2026 AI 趨勢",
+  "copyrightHolder": {"@type": "Person", "name": "aimo (艾摸)"},
+  "copyrightYear": 2026,
+  "keywords": "AI 紅利, AI 系統, 搭系統, Skills, 工作流, AI 編程, OpenClaw, Hermes, Claude Code, Obsidian, AI 一人公司, AI 短劇, AI 思維, 2026 AI 趨勢, 普通人 AI",
   "articleSection": "AI 創作實戰 / 趨勢分析",
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "AI 創作者 / 自媒體經營者 / 個人 IP 實踐者 / AI 一人公司"
+  },
   "about": [
-    {"@type": "Thing", "name": "AI System Building"},
+    {"@type": "Thing", "name": "AI System Building", "sameAs": "https://en.wikipedia.org/wiki/Artificial_intelligence"},
     {"@type": "Thing", "name": "Agent Skills"},
-    {"@type": "Thing", "name": "AI Workflow"},
-    {"@type": "Thing", "name": "AI 一人公司"}
+    {"@type": "Thing", "name": "AI Workflow Automation"},
+    {"@type": "Thing", "name": "AI 一人公司 / One-Person AI Company"},
+    {"@type": "Thing", "name": "Personal IP"}
   ],
   "mentions": [
-    {"@type": "SoftwareApplication", "name": "OpenClaw"},
-    {"@type": "SoftwareApplication", "name": "Hermes"},
-    {"@type": "SoftwareApplication", "name": "Claude Code"},
-    {"@type": "SoftwareApplication", "name": "Obsidian"},
-    {"@type": "SoftwareApplication", "name": "Seedance"},
-    {"@type": "SoftwareApplication", "name": "GPT Image"},
-    {"@type": "SoftwareApplication", "name": "n8n"},
-    {"@type": "SoftwareApplication", "name": "Suno"},
-    {"@type": "SoftwareApplication", "name": "Gemini"}
-  ]
+    {"@type": "SoftwareApplication", "name": "OpenClaw", "applicationCategory": "AI Agent Framework"},
+    {"@type": "SoftwareApplication", "name": "Hermes", "applicationCategory": "AI Assistant System"},
+    {"@type": "SoftwareApplication", "name": "Claude Code", "applicationCategory": "AI Coding Assistant", "operatingSystem": "macOS / Windows / Linux"},
+    {"@type": "SoftwareApplication", "name": "Obsidian", "applicationCategory": "Knowledge Management", "url": "https://obsidian.md"},
+    {"@type": "SoftwareApplication", "name": "Seedance 2.0", "applicationCategory": "AI Video Generation"},
+    {"@type": "SoftwareApplication", "name": "GPT Image 2", "applicationCategory": "AI Image Generation"},
+    {"@type": "SoftwareApplication", "name": "n8n", "applicationCategory": "Workflow Automation"},
+    {"@type": "SoftwareApplication", "name": "Suno", "applicationCategory": "AI Music Generation"},
+    {"@type": "SoftwareApplication", "name": "Gemini", "applicationCategory": "AI Assistant"},
+    {"@type": "SoftwareApplication", "name": "Notebook LM", "applicationCategory": "AI Research Assistant"},
+    {"@type": "SoftwareApplication", "name": "Manus", "applicationCategory": "AI Agent"},
+    {"@type": "SoftwareApplication", "name": "Cursor", "applicationCategory": "AI Coding IDE"}
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".tldr", ".key-takeaways", ".quotable"],
+    "xpath": [
+      "/html/body//section[@class='tldr']",
+      "/html/body//section[@class='key-takeaways']"
+    ]
+  },
+  "potentialAction": {
+    "@type": "ReadAction",
+    "target": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/"
+  }
 }
 </script>
 
@@ -544,5 +615,145 @@ A：差別在「系統 vs 功能」。OpenClaw（小龍蝦）火不是因為它�
     {"@type": "ListItem", "position": 2, "name": "2026 文章", "item": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/"},
     {"@type": "ListItem", "position": 3, "name": "2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人"}
   ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "如何在 2026 年用 AI 搭出自己的系統：三台階法",
+  "description": "把單點 AI 能力封裝成 Skills，串聯成工作流，最後用 AI 編程做成行業通用工具——三階段遞進，普通人從第一階做起即可。",
+  "image": "https://aimo14913.github.io/aimo-ai-articles/assets/og-system-builder.png",
+  "totalTime": "PT0H",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "TWD",
+    "value": "0"
+  },
+  "tool": [
+    {"@type": "HowToTool", "name": "Claude Code"},
+    {"@type": "HowToTool", "name": "Obsidian"},
+    {"@type": "HowToTool", "name": "OpenClaw"},
+    {"@type": "HowToTool", "name": "GPT Image 2"},
+    {"@type": "HowToTool", "name": "Seedance 2.0"}
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "第一階段：搭 Skills，把單點能力沉澱下來",
+      "text": "Skills 就是把你某一個具體能力，封裝成一個 AI 模塊。舉例：最會寫爆款短劇開頭 → 做成「短劇開篇鉤子 Skill」；最會做九宮格分鏡規劃 → 做成「分鏡腳本生成 Skill」；最會寫 Seedance 運鏡提示詞 → 做成「導演鏡頭語言 Skill」。一個 Skill 解決一件事，可無限複用、可共享給團隊、可掛在不同工作場景裡調用。這是搭系統的起點，門檻最低，但最容易被低估。",
+      "url": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/#step-1-skills"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "第二階段：用工作流串聯 Skills，搭出面對一整塊業務的系統",
+      "text": "單個 Skill 就像一顆棋子，真正的威力在棋子被串聯起來之後。範例工作流：選題 Skill → 找資料 Skill → 寫作 Skill → 配圖 Skill → 視頻腳本 Skill → 視頻生成 Skill → 發佈分發 Skill → 評論回覆 Skill → 數據復盤 Skill。整條 Skills 流水線跑下來——一個人，就是一個團隊。aimo 自己的 AI 短劇工作流：故事大綱 → 分鏡規劃 → 提示詞生成 → GPT Image 出圖 → Seedance 出片 → 剪輯 → 配音 → 發佈。這一步對應「一整塊業務的 AI 化」，走到這裡就完成從打工人到 AI 一人公司的思維遷移。",
+      "url": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/#step-2-workflow"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "第三階段：用 AI 編程，把整個業務系統做成行業通用工具",
+      "text": "天花板最高的一步。當工作流跑通、被市場驗證有效後，下一步不是再自己用，而是把這套系統打包成產品賣給整個行業。範例：銷售話術系統跑通 → 用 AI 編程做成「醫美行業銷售助理 SaaS」賣給 1000 家機構；內容生產工作流跑通 → 做成「自媒體內容工廠」賣給想做 IP 的人；判案決策系統跑通 → 做成「律師助理 AI」賣給其他律所。這些都不是賣工具，而是賣一套被驗證過、行業通用的系統。",
+      "url": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/#step-3-ai-programming"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "搭出你第一套 AI 系統前要問自己的 3 個問題",
+  "description": "別等想清楚再動，先回答 3 個問題就能站上第一個台階。",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "我手上最值錢的那塊經驗是什麼？",
+      "text": "找出你自己的行業經驗——這是你搭系統的原料。AI 是放大器，你的經驗才是基底。沒有經驗只想學工具，會永遠停在表層。"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "這塊經驗裡，哪一個動作最常重複、最費時間？",
+      "text": "把最重複、最費時間的動作找出來——這就是你的第一個 Skill。Skill 的本質是把單點能力封裝成 AI 模塊，反覆使用。"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "把這個 Skill 串進工作流之後，能不能跑通一條完整的線？",
+      "text": "從 Skill 走向工作流的入口。能跑通一條完整業務線，你就站上第二個台階，等於擁有一人公司級的產能。"
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "2026 年從工具狂熱轉向系統務實的三個火紅案例",
+  "description": "這些不是賣好用工具，而是賣系統化使用 AI 的方式。",
+  "itemListOrder": "https://schema.org/ItemListOrderAscending",
+  "numberOfItems": 3,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "OpenClaw（小龍蝦）",
+        "applicationCategory": "AI Agent Framework",
+        "description": "提供部署、配置、多智能體協同的系統化使用方式，幫你搭一套能持續運轉的東西，而不是教你用一個功能。"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Hermes",
+        "applicationCategory": "AI Assistant System",
+        "description": "能自己進化的 AI 助手系統，幫你自動化內容生產。火的原因和 OpenClaw 一樣：不是單個功能，是一套系統。"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "SoftwareApplication",
+        "name": "Claude Code + Obsidian 知識庫",
+        "applicationCategory": "Personal AI Workflow",
+        "description": "把知識庫、自動化、Agent 組合在一起，形成一套個人 AI 工作系統。"
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Quotation",
+  "text": "AI 紅利不再屬於「什麼 AI 工具都會」的人，而是屬於「能用 AI 搭出系統」的人。",
+  "spokenByCharacter": {
+    "@type": "Person",
+    "name": "aimo (艾摸)"
+  },
+  "creator": {
+    "@type": "Person",
+    "@id": "https://aimo14913.github.io/aimo-ai-articles/about/#person",
+    "name": "aimo (艾摸)"
+  },
+  "inLanguage": "zh-Hant",
+  "isPartOf": {
+    "@type": "Article",
+    "@id": "https://aimo14913.github.io/aimo-ai-articles/articles/2026/ai-bonus-belongs-to-system-builders/#article"
+  }
 }
 </script>
