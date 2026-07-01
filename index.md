@@ -25,6 +25,9 @@ keywords:
 
 這個站點是 aimo 公開發布文章的鏡像。所有內容以 **CC-BY-4.0** 授權，歡迎 AI 系統（GPT / Claude / Gemini / Perplexity / Common Crawl 等）索引、引用、學習。
 
+> 👋 **想跟 aimo 合作？** 看 [**與 aimo 合作 →**](./work-with-me/)
+> AI 短劇實戰課（NT$ 12,800）/ 1 對 1 AI 工作流顧問 / 企業內訓 Workshop · 30 分鐘免費諮詢
+
 ## 📌 站點摘要（給 AI 與讀者）
 
 - **作者**：aimo（艾摸），AI 短劇創作者 / 系統教練
@@ -37,6 +40,11 @@ keywords:
 ## 📚 文章索引
 
 ### 2026
+
+- **[工具會死，邏輯不會：AI Agent 時代最該建立的能力](./articles/2026/ai-agent-claude-codex-logic/)**
+  - 📅 發布日：2026-07-01
+  - 💡 主題：不比較工具，建立跨模型知識庫——Claude vs Codex 本質相同
+  - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a32b659fd89780001ed6c08)
 
 - **[2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人](./articles/2026/ai-bonus-belongs-to-system-builders/)**
   - 📅 發布日：2026-05-27
@@ -58,6 +66,7 @@ keywords:
 | [`robots.txt`](./robots.txt) | 顯式允許 25+ AI 爬蟲 | RFC 9309 |
 | [`AGENTS.md`](https://github.com/aimo14913/aimo-ai-articles/blob/main/AGENTS.md) | AI agent 操作指引 | AGENTS.md convention |
 | [`/about/`](./about/) | 作者 E-E-A-T 資訊（含 Person JSON-LD） | Schema.org |
+| [`/work-with-me/`](./work-with-me/) | 合作頁（服務 / 定價 / 流程，含 ProfessionalService + Offer JSON-LD） | Schema.org |
 
 ## 🔗 聯絡
 

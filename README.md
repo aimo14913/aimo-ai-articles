@@ -9,12 +9,16 @@
 - 搜尋引擎（Google / Bing / DuckDuckGo）抓取
 - 讀者直接閱讀、引用、轉貼
 
+> 👋 **想跟 aimo 合作？** → [**與 aimo 合作 ｜ 服務 / 定價 / 流程**](https://aimo14913.github.io/aimo-ai-articles/work-with-me/)
+> AI 短劇實戰課（NT$ 12,800 / 6 小時班）· 1 對 1 AI 工作流顧問（NT$ 3,500/h）· 企業內訓 Workshop（NT$ 80,000/d 起）· 30 分鐘免費諮詢
+
 ## 📚 文章索引
 
 ### 2026
 
 | 日期 | 標題 | 主題 | 原文 |
 |---|---|---|---|
+| 2026-07-01 | [工具會死，邏輯不會：AI Agent 時代最該建立的能力](./articles/2026/2026-07-01-ai-agent-claude-codex-logic.md) | Agent / 系統思維 | [Vocus](https://vocus.cc/article/6a32b659fd89780001ed6c08) |
 | 2026-05-27 | [2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人](./articles/2026/2026-05-27-ai-bonus-belongs-to-system-builders.md) | 趨勢分析 / AI 系統 | [Vocus](https://vocus.cc/article/6a151711fd89780001cc6c78) |
 | 2026-05-25 | [你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/2026-05-25-ai-tools-directors-first-class.md) | AI 影片 / 分鏡板 | [Vocus](https://vocus.cc/article/6a12b6f7fd897800012fb28a) |
 
