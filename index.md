@@ -46,6 +46,11 @@ keywords:
   - 💡 主題：用 AI 短劇當入口、工作流當骨架，30 天搭出別人複製不走的自己的 AI 系統
   - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a1c2fd6fd8978000106c57f)
 
+- **[AI 知識蒸餾：把大模型的腦子，裝進你自己的系統](./articles/2026/ai-knowledge-distillation/)**
+  - 📅 發布日：2026-07-02
+  - 💡 主題：用「蒸餾思維」把大模型的判斷力壓縮進自己的 SOP，做出別人複製不了的個人系統
+  - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a1c3a05fd897800010ad55d)
+
 - **[工具會死，邏輯不會：AI Agent 時代最該建立的能力](./articles/2026/ai-agent-claude-codex-logic/)**
   - 📅 發布日：2026-07-01
   - 💡 主題：不比較工具，建立跨模型知識庫——Claude vs Codex 本質相同
