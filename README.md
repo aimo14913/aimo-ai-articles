@@ -18,6 +18,7 @@
 
 | 日期 | 標題 | 主題 | 原文 |
 |---|---|---|---|
+| 2026-07-03 | [普通人的 AI 系統長這樣 — 從一支 60 秒短劇，跑通屬於你的那條線](./articles/2026/2026-07-03-ordinary-person-ai-system.md) | AI 短劇 / 工作流 / 個人系統 | [Vocus](https://vocus.cc/article/6a1c2fd6fd8978000106c57f) |
 | 2026-07-01 | [工具會死，邏輯不會：AI Agent 時代最該建立的能力](./articles/2026/2026-07-01-ai-agent-claude-codex-logic.md) | Agent / 系統思維 | [Vocus](https://vocus.cc/article/6a32b659fd89780001ed6c08) |
 | 2026-05-27 | [2026 年的 AI 紅利，不再屬於「會用工具」的人，而是屬於「會搭系統」的人](./articles/2026/2026-05-27-ai-bonus-belongs-to-system-builders.md) | 趨勢分析 / AI 系統 | [Vocus](https://vocus.cc/article/6a151711fd89780001cc6c78) |
 | 2026-05-25 | [你以為在學 AI 工具，其實在學導演學院第一堂課](./articles/2026/2026-05-25-ai-tools-directors-first-class.md) | AI 影片 / 分鏡板 | [Vocus](https://vocus.cc/article/6a12b6f7fd897800012fb28a) |

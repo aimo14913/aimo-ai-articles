@@ -41,6 +41,11 @@ keywords:
 
 ### 2026
 
+- **[普通人的 AI 系統長這樣 — 從一支 60 秒短劇，跑通屬於你的那條線](./articles/2026/ordinary-person-ai-system/)**
+  - 📅 發布日：2026-07-03
+  - 💡 主題：用 AI 短劇當入口、工作流當骨架，30 天搭出別人複製不走的自己的 AI 系統
+  - 🔗 [原文 (Vocus)](https://vocus.cc/article/6a1c2fd6fd8978000106c57f)
+
 - **[工具會死，邏輯不會：AI Agent 時代最該建立的能力](./articles/2026/ai-agent-claude-codex-logic/)**
   - 📅 發布日：2026-07-01
   - 💡 主題：不比較工具，建立跨模型知識庫——Claude vs Codex 本質相同
